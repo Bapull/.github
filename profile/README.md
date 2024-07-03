@@ -1,12 +1,31 @@
-## Hi there 👋
+## 📌 변수명 규칙
 
-<!--
+- 변수명, 함수명 **카멜 케이스**로 통일
+- **줄임말 사용 금지**
+    (image, value, event, Button 등 풀네임 사용)
 
-**Here are some ideas to get you started:**
+<br><br>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 📌 커밋 메시지 규칙
+
+### <유형> : <변경 사항 요약>
+
+<br>
+
+- 💡 feat: 새로운 기능 추가
+- 🐛 fix: 버그 수정
+- 🎨 style: 코드 스타일 수정
+- 🔨 refactor: 코드 리팩토링
+- ✅ test: 테스트 추가/수정
+
+<br><br>
+
+## 📌 브랜치 네이밍 규칙
+
+- **기능 개발: feature/<기능명>**
+- **버그 수정: bugfix/<버그명>**
+
+<br>
+
+⇒ 같은 브랜치에서 작업을 할 시 의견 조정, 특히 생성이나 삭제에 대해서는 합의가 필요함.    
+  자세히 어떤 기능에 대해 작업할 지 서로 얘기하고 작업시작, 작업 완료 후 어떤 작업을 완료했는지 다시 전달.
