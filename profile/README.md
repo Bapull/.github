@@ -12,12 +12,13 @@
 
 <br>
 
-- 💡 Feat : 새로운 기능 추가
-- 💫 Edit : 코드 수정
-- 🐛 Fix : 버그 수정
-- 🎨 Style : 코드 스타일 수정
-- 🔨 Refactor : 코드 리팩토링
-- ✅ Test : 테스트 추가/수정
+- 💡Create : 새로운 파일 추가
+- 💡Feat : 새로운 기능 추가
+- 💫Edit : 코드, 파일 수정
+- 🐛Fix : 버그 수정
+- 🎨Style : 코드 스타일 수정
+- 🔨Refactor : 코드 리팩토링
+- ✅Test : 테스트 추가/수정
 
 <br><br>
 
