@@ -1,8 +1,8 @@
-name: 버그 리포트
-about: 프로젝트를 개선하기 위해 버그를 신고합니다.
-title: "[버그]"
-labels: bug
-assignees: ''
+name: 버그 리포트  
+about: 프로젝트를 개선하기 위해 버그를 신고합니다.  
+title: "[버그]"  
+labels: bug  
+assignees: ''  
 
 ---
 
