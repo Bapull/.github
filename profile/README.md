@@ -18,6 +18,7 @@
 - 🐛Fix : 버그 수정
 - 🎨Style : 코드 스타일 수정
 - 🔨Refactor : 코드 리팩토링
+- 🗑️Delete : 코드, 파일 삭제
 - ✅Test : 테스트 추가/수정
 
 <br><br>
