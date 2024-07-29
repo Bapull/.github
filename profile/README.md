@@ -35,17 +35,17 @@
 
 | Label          | Description                       |
 |----------------|-----------------------------------|
-| 💻 API         | Server API communication          |
-| 🚀 Deploy      | Deployment-related                |
-| 🛠️ Refactor    | Code refactoring                  |
-| 🐛 BugFix      | Something isn't working           |
-| ♿ Accessibility | Web accessibility related         |
-| 📚 Docs        | (README.md) Documentation modifications |
-| 🎨 Html & Css  | Modifying styles                  |
-| ❓ Question    | Request for more information      |
-| ⭐ Feature     | Feature development               |
-| ✅ Test        | test (storybook, jest...)         |
-| 💡 Enhancement | Suggestions for new features      |
+| 💻 API         | 서버 API 통신                     |
+| 🚀 Deploy      | 배포 관련                         |
+| 🛠️ Refactor    | 코드 리팩토링                    |
+| 🐛 BugFix      | 버그 수정                         |
+| ♿ Accessibility | 웹 접근성 관련                   |
+| 📚 Docs        | (README.md 등) 문서 수정             |
+| 🎨 Html & Css  | 스타일 수정                       |
+| ❓ Question    | 기능에 대한 정보 요청                  |
+| ⭐ Feature     | 기능 개발                         |
+| ✅ Test        | 테스트                            |
+| 💡 Enhancement | 새로운 기능 제안                  |
 
 <br>
 
