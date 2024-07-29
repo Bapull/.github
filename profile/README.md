@@ -30,5 +30,29 @@
 
 <br>
 
+## 📌 Labels 규칙
+
+
+| Label          | Description                       |
+|----------------|-----------------------------------|
+| 💻 API         | Server API communication          |
+| 🚀 Deploy      | Deployment-related                |
+| 🛠️ Refactor    | Code refactoring                  |
+| 🐛 BugFix      | Something isn't working           |
+| ♿ Accessibility | Web accessibility related         |
+| 📚 Docs        | (README.md) Documentation modifications |
+| 🎨 Html & Css  | Modifying styles                  |
+| ❓ Question    | Request for more information      |
+| ⭐ Feature     | Feature development               |
+| ✅ Test        | test (storybook, jest...)         |
+| 💡 Enhancement | Suggestions for new features      |
+
+<br>
+
++ Issues Link는 #뒤에 바로 Number 달아주세요.
++ 참고 링크는 [Title] (Link) 입니다.
+
+<br><br>
+
 ⇒ 같은 브랜치에서 작업을 할 시 의견 조정, 특히 생성이나 삭제에 대해서는 합의가 필요함.    
   자세히 어떤 기능에 대해 작업할 지 서로 얘기하고 작업시작, 작업 완료 후 어떤 작업을 완료했는지 다시 전달.
