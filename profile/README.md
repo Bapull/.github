@@ -27,6 +27,8 @@
 
 - **기능 개발: feature/<기능명>**
 - **버그 수정: bugfix/issueNumber#N**
+- **기능 수정: edit/issueNumber#N**
+- **스타일 수정: style/issueNumber#N**
 
 <br>
 
